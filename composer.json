@@ -1,5 +1,5 @@
 {
-    "name": "iuriJorbenadze/scheduling-feature",
+    "name": "iurijorbenadze/scheduling-feature",
     "description": "A Mautic plugin for scheduling and importing data.",
     "type": "mautic-plugin",
     "license": "GPL-3.0-or-later",
