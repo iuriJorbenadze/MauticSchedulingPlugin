@@ -46,6 +46,12 @@ sudo /usr/bin/php /path-to-mautic/bin/console mautic:plugins:install
 
 ## User Flow Scenario
 
+### Create A Segment
+1. Create a segment you wish to import data to from custom import
+2. Add filter to your segment which will match 'alias' of your segment. In filter dropdown choose 'segment_name' option (plugin creates that field automatically)
+3. Your filter should look like this: 'segment_name' equals '{put_name_of_your_segment_into_filter}'
+4. In your csv or excel file add column called 'segment_name' and as values in each row add same value from segment filter which is '{put_name_of_your_segment_into_filter}'
+
 ### Custom Import
 1. Upload a CSV file through the "Custom Import" menu.
 2. Map the CSV headers to the database fields dynamically.
