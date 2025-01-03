@@ -6,6 +6,11 @@ The Mautic Contact/Email Scheduling Plugin saves you time by allowing users to u
 
 The **Scheduling Feature Plugin** is a powerful extension for Mautic that enables users to import data via CSV files, process imports through a job queue, and schedule data transfers between custom tables. Designed for seamless integration and enhanced flexibility, this plugin simplifies large-scale data management.
 
+## Video Tutorial
+
+[Watch the Scheduling Feature Plugin Full Tutorial](https://github.com/iuriJorbenadze/MauticSchedulingPlugin/blob/d1e9e7cff723c427a41497c4b346c27eca489f88/Scheduling%20feature%20plugin%20full%20tutorial.mkv)
+
+
 ## Features
 
 - **Custom Import**: Upload and map CSV data to the database dynamically.
