@@ -1,0 +1,964 @@
+Array
+(
+    [First Name] => John Doe
+    [Last Name] => Sample data 1
+)
+Array
+(
+    [first_name] => John Doe
+    [last_name] => Sample data 1
+    [email] => 
+    [created_at] => 2024-11-29 14:07:59
+)
+Array
+(
+    [First Name] => Jane Doe
+    [Last Name] => Sample data 2
+)
+Array
+(
+    [first_name] => Jane Doe
+    [last_name] => Sample data 2
+    [email] => 
+    [created_at] => 2024-11-29 14:07:59
+)
+Array
+(
+    [Last Name] => John Doe
+    [First Name] => Sample data 1
+)
+Array
+(
+    [first_name] => Sample data 1
+    [last_name] => John Doe
+    [email] => 
+    [created_at] => 2024-11-29 14:08:15
+)
+Array
+(
+    [Last Name] => Jane Doe
+    [First Name] => Sample data 2
+)
+Array
+(
+    [first_name] => Sample data 2
+    [last_name] => Jane Doe
+    [email] => 
+    [created_at] => 2024-11-29 14:08:15
+)
+Array
+(
+    [First Name] => John Doe
+    [Email] => Sample data 1
+)
+Array
+(
+    [First Name] => Jane Doe
+    [Email] => Sample data 2
+)
+Array
+(
+    [Email] => John Doe
+    [First Name] => Sample data 1
+)
+Array
+(
+    [Email] => Jane Doe
+    [First Name] => Sample data 2
+)
+Array
+(
+    [First Name] => John Doe
+    [Email] => Sample data 1
+)
+Array
+(
+    [First Name] => Jane Doe
+    [Email] => Sample data 2
+)
+Array
+(
+    [First Name] => John Doe
+    [Email] => Sample data 1
+)
+Array
+(
+    [first_name] => John Doe
+    [last_name] => 
+    [email] => Sample data 1
+    [created_at] => 2024-11-29 14:12:12
+)
+Array
+(
+    [First Name] => Jane Doe
+    [Email] => Sample data 2
+)
+Array
+(
+    [first_name] => Jane Doe
+    [last_name] => 
+    [email] => Sample data 2
+    [created_at] => 2024-11-29 14:12:12
+)
+Array
+(
+    [Email] => Sample data 1
+)
+Array
+(
+    [first_name] => 
+    [last_name] => 
+    [email] => Sample data 1
+    [created_at] => 2024-11-29 14:12:43
+)
+Array
+(
+    [Email] => Sample data 2
+)
+Array
+(
+    [first_name] => 
+    [last_name] => 
+    [email] => Sample data 2
+    [created_at] => 2024-11-29 14:12:43
+)
+Array
+(
+    [First Name] => Sample data 1
+)
+Array
+(
+    [first_name] => Sample data 1
+    [last_name] => 
+    [email] => 
+    [created_at] => 2024-11-29 15:13:26
+)
+Array
+(
+    [First Name] => Sample data 2
+)
+Array
+(
+    [first_name] => Sample data 2
+    [last_name] => 
+    [email] => 
+    [created_at] => 2024-11-29 15:13:26
+)
+Array
+(
+    [First Name] => Sample data 1
+)
+Array
+(
+    [first_name] => Sample data 1
+    [last_name] => 
+    [email] => 
+    [created_at] => 2024-11-29 15:15:30
+)
+Array
+(
+    [First Name] => Sample data 2
+)
+Array
+(
+    [first_name] => Sample data 2
+    [last_name] => 
+    [email] => 
+    [created_at] => 2024-11-29 15:15:30
+)
+Array
+(
+    [First Name] => Sample data 1
+)
+Array
+(
+    [first_name] => Sample data 1
+    [last_name] => 
+    [email] => 
+    [created_at] => 2024-11-29 15:20:51
+)
+Array
+(
+    [First Name] => Sample data 2
+)
+Array
+(
+    [first_name] => Sample data 2
+    [last_name] => 
+    [email] => 
+    [created_at] => 2024-11-29 15:20:51
+)
+Array
+(
+    [First Name] => John Doe
+    [Email] => Sample data 1
+)
+Array
+(
+    [first_name] => John Doe
+    [last_name] => 
+    [email] => Sample data 1
+    [created_at] => 2024-11-29 15:31:18
+)
+Array
+(
+    [First Name] => Jane Doe
+    [Email] => Sample data 2
+)
+Array
+(
+    [first_name] => Jane Doe
+    [last_name] => 
+    [email] => Sample data 2
+    [created_at] => 2024-11-29 15:31:18
+)
+Array
+(
+    [First Name] => John
+    [Email] => 1@gmail.com
+    [Last Name] => Doe
+)
+Array
+(
+    [first_name] => John
+    [last_name] => Doe
+    [email] => 1@gmail.com
+    [created_at] => 2024-11-29 15:34:35
+)
+Array
+(
+    [First Name] => Jane
+    [Email] => 2@gmail.com
+    [Last Name] => Kenedy
+)
+Array
+(
+    [first_name] => Jane
+    [last_name] => Kenedy
+    [email] => 2@gmail.com
+    [created_at] => 2024-11-29 15:34:35
+)
+Array
+(
+    [Email] => John
+    [First Name] => 1@gmail.com
+    [Last Name] => Doe
+)
+Array
+(
+    [first_name] => 1@gmail.com
+    [last_name] => Doe
+    [email] => John
+    [created_at] => 2024-11-29 15:35:10
+)
+Array
+(
+    [Email] => Jane
+    [First Name] => 2@gmail.com
+    [Last Name] => Kenedy
+)
+Array
+(
+    [first_name] => 2@gmail.com
+    [last_name] => Kenedy
+    [email] => Jane
+    [created_at] => 2024-11-29 15:35:10
+)
+Array
+(
+    [First Name] => John
+    [Last Name] => 1@gmail.com
+    [Email] => Doe
+)
+Array
+(
+    [first_name] => John
+    [last_name] => 1@gmail.com
+    [email] => Doe
+    [created_at] => 2024-11-29 18:48:29
+)
+Array
+(
+    [First Name] => Jane
+    [Last Name] => 2@gmail.com
+    [Email] => Kenedy
+)
+Array
+(
+    [first_name] => Jane
+    [last_name] => 2@gmail.com
+    [email] => Kenedy
+    [created_at] => 2024-11-29 18:48:29
+)
+Array
+(
+    [First Name] => John
+    [Email] => 1@gmail.com
+    [Last Name] => Doe
+)
+Array
+(
+    [first_name] => John
+    [last_name] => Doe
+    [email] => 1@gmail.com
+    [created_at] => 2024-11-29 18:52:03
+)
+Array
+(
+    [First Name] => Jane
+    [Email] => 2@gmail.com
+    [Last Name] => Kenedy
+)
+Array
+(
+    [first_name] => Jane
+    [last_name] => Kenedy
+    [email] => 2@gmail.com
+    [created_at] => 2024-11-29 18:52:03
+)
+Array
+(
+    [First Name] => John
+    [Email] => 1@gmail.com
+    [Last Name] => Doe
+)
+Array
+(
+    [first_name] => John
+    [last_name] => Doe
+    [email] => 1@gmail.com
+    [created_at] => 2024-11-29 18:54:53
+)
+Array
+(
+    [First Name] => Jane
+    [Email] => 2@gmail.com
+    [Last Name] => Kenedy
+)
+Array
+(
+    [first_name] => Jane
+    [last_name] => Kenedy
+    [email] => 2@gmail.com
+    [created_at] => 2024-11-29 18:54:53
+)
+Array
+(
+    [Last Name] => John Doe
+    [Email] => Sample data 1
+)
+Array
+(
+    [first_name] => 
+    [last_name] => John Doe
+    [email] => Sample data 1
+    [created_at] => 2024-12-03 13:45:32
+)
+Array
+(
+    [Last Name] => Jane Doe
+    [Email] => Sample data 2
+)
+Array
+(
+    [first_name] => 
+    [last_name] => Jane Doe
+    [email] => Sample data 2
+    [created_at] => 2024-12-03 13:45:32
+)
+Array
+(
+    [Last Name] => John Doe
+    [Email] => Sample data 1
+)
+Array
+(
+    [first_name] => 
+    [last_name] => John Doe
+    [email] => Sample data 1
+    [created_at] => 2024-12-03 13:52:48
+)
+Array
+(
+    [Last Name] => Jane Doe
+    [Email] => Sample data 2
+)
+Array
+(
+    [first_name] => 
+    [last_name] => Jane Doe
+    [email] => Sample data 2
+    [created_at] => 2024-12-03 13:52:48
+)
+Array
+(
+    [Last Name] => John Doe
+    [Email] => Sample data 1
+)
+Array
+(
+    [first_name] => 
+    [last_name] => John Doe
+    [email] => Sample data 1
+    [created_at] => 2024-12-03 13:52:50
+)
+Array
+(
+    [Last Name] => Jane Doe
+    [Email] => Sample data 2
+)
+Array
+(
+    [first_name] => 
+    [last_name] => Jane Doe
+    [email] => Sample data 2
+    [created_at] => 2024-12-03 13:52:50
+)
+Array
+(
+    [First Name] => John
+    [Email] => 1@gmail.com
+    [Last Name] => Doe
+)
+Array
+(
+    [first_name] => John
+    [last_name] => Doe
+    [email] => 1@gmail.com
+    [created_at] => 2024-12-03 13:54:03
+)
+Array
+(
+    [First Name] => Jane
+    [Email] => 2@gmail.com
+    [Last Name] => Kenedy
+)
+Array
+(
+    [first_name] => Jane
+    [last_name] => Kenedy
+    [email] => 2@gmail.com
+    [created_at] => 2024-12-03 13:54:03
+)
+Array
+(
+    [submitted_mapping] => Array
+        (
+            [First Name] => Firstname
+            [email] => Email
+            [last name] => Lastname
+        )
+
+    [available_fields] => Array
+        (
+            [owner_id] => Owner Id
+            [stage_id] => Stage Id
+            [is_published] => Is Published
+            [points] => Points
+            [last_active] => Last Active
+            [date_identified] => Date Identified
+            [preferred_profile_image] => Preferred Profile Image
+            [title] => Title
+            [firstname] => Firstname
+            [lastname] => Lastname
+            [company] => Company
+            [position] => Position
+            [email] => Email
+            [phone] => Phone
+            [mobile] => Mobile
+            [address1] => Address1
+            [address2] => Address2
+            [city] => City
+            [state] => State
+            [zipcode] => Zipcode
+            [timezone] => Timezone
+            [country] => Country
+            [fax] => Fax
+            [preferred_locale] => Preferred Locale
+            [attribution_date] => Attribution Date
+            [attribution] => Attribution
+            [website] => Website
+            [facebook] => Facebook
+            [foursquare] => Foursquare
+            [instagram] => Instagram
+            [linkedin] => Linkedin
+            [skype] => Skype
+            [twitter] => Twitter
+            [segment_name] => Segment Name
+        )
+
+)
+Array
+(
+    [submitted_mapping] => Array
+        (
+            [First Name] => firstname
+            [email] => email
+            [last name] => lastname
+        )
+
+    [available_fields] => Array
+        (
+            [owner_id] => owner_id
+            [stage_id] => stage_id
+            [is_published] => is_published
+            [points] => points
+            [last_active] => last_active
+            [date_identified] => date_identified
+            [preferred_profile_image] => preferred_profile_image
+            [title] => title
+            [firstname] => firstname
+            [lastname] => lastname
+            [company] => company
+            [position] => position
+            [email] => email
+            [phone] => phone
+            [mobile] => mobile
+            [address1] => address1
+            [address2] => address2
+            [city] => city
+            [state] => state
+            [zipcode] => zipcode
+            [timezone] => timezone
+            [country] => country
+            [fax] => fax
+            [preferred_locale] => preferred_locale
+            [attribution_date] => attribution_date
+            [attribution] => attribution
+            [website] => website
+            [facebook] => facebook
+            [foursquare] => foursquare
+            [instagram] => instagram
+            [linkedin] => linkedin
+            [skype] => skype
+            [twitter] => twitter
+            [segment_name] => segment_name
+        )
+
+)
+Array
+(
+    [submitted_mapping] => Array
+        (
+            [First Name] => firstname
+            [email] => email
+            [last name] => lastname
+        )
+
+    [available_fields] => Array
+        (
+            [owner_id] => owner_id
+            [stage_id] => stage_id
+            [is_published] => is_published
+            [points] => points
+            [last_active] => last_active
+            [date_identified] => date_identified
+            [preferred_profile_image] => preferred_profile_image
+            [title] => title
+            [firstname] => firstname
+            [lastname] => lastname
+            [company] => company
+            [position] => position
+            [email] => email
+            [phone] => phone
+            [mobile] => mobile
+            [address1] => address1
+            [address2] => address2
+            [city] => city
+            [state] => state
+            [zipcode] => zipcode
+            [timezone] => timezone
+            [country] => country
+            [fax] => fax
+            [preferred_locale] => preferred_locale
+            [attribution_date] => attribution_date
+            [attribution] => attribution
+            [website] => website
+            [facebook] => facebook
+            [foursquare] => foursquare
+            [instagram] => instagram
+            [linkedin] => linkedin
+            [skype] => skype
+            [twitter] => twitter
+            [segment_name] => segment_name
+        )
+
+)
+Array
+(
+    [submitted_mapping] => Array
+        (
+            [First Name] => firstname
+            [email] => email
+            [last name] => lastname
+        )
+
+    [available_fields] => Array
+        (
+            [owner_id] => owner_id
+            [stage_id] => stage_id
+            [is_published] => is_published
+            [points] => points
+            [last_active] => last_active
+            [date_identified] => date_identified
+            [preferred_profile_image] => preferred_profile_image
+            [title] => title
+            [firstname] => firstname
+            [lastname] => lastname
+            [company] => company
+            [position] => position
+            [email] => email
+            [phone] => phone
+            [mobile] => mobile
+            [address1] => address1
+            [address2] => address2
+            [city] => city
+            [state] => state
+            [zipcode] => zipcode
+            [timezone] => timezone
+            [country] => country
+            [fax] => fax
+            [preferred_locale] => preferred_locale
+            [attribution_date] => attribution_date
+            [attribution] => attribution
+            [website] => website
+            [facebook] => facebook
+            [foursquare] => foursquare
+            [instagram] => instagram
+            [linkedin] => linkedin
+            [skype] => skype
+            [twitter] => twitter
+            [segment_name] => segment_name
+        )
+
+)
+Array
+(
+    [submitted_mapping] => Array
+        (
+            [First Name] => firstname
+            [email] => email
+            [last name] => lastname
+        )
+
+    [available_fields] => Array
+        (
+            [owner_id] => owner_id
+            [stage_id] => stage_id
+            [is_published] => is_published
+            [points] => points
+            [last_active] => last_active
+            [date_identified] => date_identified
+            [preferred_profile_image] => preferred_profile_image
+            [title] => title
+            [firstname] => firstname
+            [lastname] => lastname
+            [company] => company
+            [position] => position
+            [email] => email
+            [phone] => phone
+            [mobile] => mobile
+            [address1] => address1
+            [address2] => address2
+            [city] => city
+            [state] => state
+            [zipcode] => zipcode
+            [timezone] => timezone
+            [country] => country
+            [fax] => fax
+            [preferred_locale] => preferred_locale
+            [attribution_date] => attribution_date
+            [attribution] => attribution
+            [website] => website
+            [facebook] => facebook
+            [foursquare] => foursquare
+            [instagram] => instagram
+            [linkedin] => linkedin
+            [skype] => skype
+            [twitter] => twitter
+            [segment_name] => segment_name
+        )
+
+)
+Array
+(
+    [submitted_mapping] => Array
+        (
+            [First Name] => firstname
+            [email] => email
+            [last name] => lastname
+        )
+
+    [available_fields] => Array
+        (
+            [owner_id] => owner_id
+            [stage_id] => stage_id
+            [is_published] => is_published
+            [points] => points
+            [last_active] => last_active
+            [date_identified] => date_identified
+            [preferred_profile_image] => preferred_profile_image
+            [title] => title
+            [firstname] => firstname
+            [lastname] => lastname
+            [company] => company
+            [position] => position
+            [email] => email
+            [phone] => phone
+            [mobile] => mobile
+            [address1] => address1
+            [address2] => address2
+            [city] => city
+            [state] => state
+            [zipcode] => zipcode
+            [timezone] => timezone
+            [country] => country
+            [fax] => fax
+            [preferred_locale] => preferred_locale
+            [attribution_date] => attribution_date
+            [attribution] => attribution
+            [website] => website
+            [facebook] => facebook
+            [foursquare] => foursquare
+            [instagram] => instagram
+            [linkedin] => linkedin
+            [skype] => skype
+            [twitter] => twitter
+            [segment_name] => segment_name
+        )
+
+)
+Array
+(
+    [submitted_mapping] => Array
+        (
+            [First Name] => lastname
+            [email] => email
+            [last name] => firstname
+        )
+
+    [available_fields] => Array
+        (
+            [owner_id] => owner_id
+            [stage_id] => stage_id
+            [is_published] => is_published
+            [points] => points
+            [last_active] => last_active
+            [date_identified] => date_identified
+            [preferred_profile_image] => preferred_profile_image
+            [title] => title
+            [firstname] => firstname
+            [lastname] => lastname
+            [company] => company
+            [position] => position
+            [email] => email
+            [phone] => phone
+            [mobile] => mobile
+            [address1] => address1
+            [address2] => address2
+            [city] => city
+            [state] => state
+            [zipcode] => zipcode
+            [timezone] => timezone
+            [country] => country
+            [fax] => fax
+            [preferred_locale] => preferred_locale
+            [attribution_date] => attribution_date
+            [attribution] => attribution
+            [website] => website
+            [facebook] => facebook
+            [foursquare] => foursquare
+            [instagram] => instagram
+            [linkedin] => linkedin
+            [skype] => skype
+            [twitter] => twitter
+            [segment_name] => segment_name
+        )
+
+)
+Array
+(
+    [submitted_mapping] => Array
+        (
+            [First Name] => firstname
+            [email] => email
+            [last name] => lastname
+            [segment_name ] => segment_name
+        )
+
+    [available_fields] => Array
+        (
+            [owner_id] => owner_id
+            [stage_id] => stage_id
+            [is_published] => is_published
+            [points] => points
+            [last_active] => last_active
+            [date_identified] => date_identified
+            [preferred_profile_image] => preferred_profile_image
+            [title] => title
+            [firstname] => firstname
+            [lastname] => lastname
+            [company] => company
+            [position] => position
+            [email] => email
+            [phone] => phone
+            [mobile] => mobile
+            [address1] => address1
+            [address2] => address2
+            [city] => city
+            [state] => state
+            [zipcode] => zipcode
+            [timezone] => timezone
+            [country] => country
+            [fax] => fax
+            [preferred_locale] => preferred_locale
+            [attribution_date] => attribution_date
+            [attribution] => attribution
+            [website] => website
+            [facebook] => facebook
+            [foursquare] => foursquare
+            [instagram] => instagram
+            [linkedin] => linkedin
+            [skype] => skype
+            [twitter] => twitter
+            [segment_name] => segment_name
+        )
+
+)
+Array
+(
+    [submitted_mapping] => Array
+        (
+            [First Name] => firstname
+            [email] => 
+            [last name] => 
+            [segment_name ] => segment_name
+        )
+
+    [available_fields] => Array
+        (
+            [owner_id] => owner_id
+            [stage_id] => stage_id
+            [is_published] => is_published
+            [points] => points
+            [last_active] => last_active
+            [date_identified] => date_identified
+            [preferred_profile_image] => preferred_profile_image
+            [title] => title
+            [firstname] => firstname
+            [lastname] => lastname
+            [company] => company
+            [position] => position
+            [email] => email
+            [phone] => phone
+            [mobile] => mobile
+            [address1] => address1
+            [address2] => address2
+            [city] => city
+            [state] => state
+            [zipcode] => zipcode
+            [timezone] => timezone
+            [country] => country
+            [fax] => fax
+            [preferred_locale] => preferred_locale
+            [attribution_date] => attribution_date
+            [attribution] => attribution
+            [website] => website
+            [facebook] => facebook
+            [foursquare] => foursquare
+            [instagram] => instagram
+            [linkedin] => linkedin
+            [skype] => skype
+            [twitter] => twitter
+            [segment_name] => segment_name
+        )
+
+)
+Array
+(
+    [submitted_mapping] => Array
+        (
+            [First Name] => firstname
+            [email] => email
+            [last name] => lastname
+            [segment_name ] => segment_name
+        )
+
+    [available_fields] => Array
+        (
+            [points] => points
+            [last_active] => last_active
+            [title] => title
+            [firstname] => firstname
+            [lastname] => lastname
+            [company] => company
+            [position] => position
+            [email] => email
+            [phone] => phone
+            [mobile] => mobile
+            [address1] => address1
+            [address2] => address2
+            [city] => city
+            [state] => state
+            [zipcode] => zipcode
+            [timezone] => timezone
+            [country] => country
+            [fax] => fax
+            [preferred_locale] => preferred_locale
+            [attribution_date] => attribution_date
+            [attribution] => attribution
+            [website] => website
+            [facebook] => facebook
+            [foursquare] => foursquare
+            [instagram] => instagram
+            [linkedin] => linkedin
+            [skype] => skype
+            [twitter] => twitter
+            [segment_name] => segment_name
+        )
+
+)
+Array
+(
+    [submitted_mapping] => Array
+        (
+            [First Name] => firstname
+            [email] => email
+            [last name] => lastname
+            [segment_name ] => segment_name
+        )
+
+    [available_fields] => Array
+        (
+            [points] => points
+            [last_active] => last_active
+            [title] => title
+            [firstname] => firstname
+            [lastname] => lastname
+            [company] => company
+            [position] => position
+            [email] => email
+            [phone] => phone
+            [mobile] => mobile
+            [address1] => address1
+            [address2] => address2
+            [city] => city
+            [state] => state
+            [zipcode] => zipcode
+            [timezone] => timezone
+            [country] => country
+            [fax] => fax
+            [preferred_locale] => preferred_locale
+            [attribution_date] => attribution_date
+            [attribution] => attribution
+            [website] => website
+            [facebook] => facebook
+            [foursquare] => foursquare
+            [instagram] => instagram
+            [linkedin] => linkedin
+            [skype] => skype
+            [twitter] => twitter
+            [segment_name] => segment_name
+        )
+
+)

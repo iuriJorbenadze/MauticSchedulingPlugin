@@ -1,0 +1,18 @@
+An exception occurred while executing 'INSERT INTO scheduling_feature (first_name, last_name, email, created_at) VALUES (?, ?, ?, ?)' with params [null, "Sample data 1", null, "2024-11-29 13:45:37"]:
+
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'first_name' cannot be null
+An exception occurred while executing 'INSERT INTO scheduling_feature (first_name, last_name, email, created_at) VALUES (?, ?, ?, ?)' with params [null, "Sample data 2", null, "2024-11-29 13:45:37"]:
+
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'first_name' cannot be null
+An exception occurred while executing 'INSERT INTO scheduling_feature (first_name, last_name, email, created_at) VALUES (?, ?, ?, ?)' with params ["John Doe", "Sample data 1", null, "2024-11-29 13:47:17"]:
+
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null
+An exception occurred while executing 'INSERT INTO scheduling_feature (first_name, last_name, email, created_at) VALUES (?, ?, ?, ?)' with params ["Jane Doe", "Sample data 2", null, "2024-11-29 13:47:17"]:
+
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null
+Invalid email address provided.
+Invalid email address provided.
+Invalid email address provided.
+Invalid email address provided.
+Invalid email address provided.
+Invalid email address provided.

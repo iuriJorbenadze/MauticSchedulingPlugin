@@ -1,0 +1,37 @@
+2024-12-12 21:55:52 - Transferred 100 rows. Execution #1
+2024-12-12 21:56:11 - Transferred 200 rows. Execution #2
+2024-12-12 21:56:57 - Transferred 500 rows. Execution #3
+2024-12-12 21:57:00 - Transferred 100 rows. Execution #4
+2024-12-12 23:05:27 - Attempted to move 100 rows, actually moved 2 rows.
+2024-12-12 23:08:31 - Attempted to move 1000 rows, actually moved 4 rows.
+2024-12-12 23:16:09 - Attempted to move 1000 rows, actually moved 2 rows.
+2024-12-12 23:32:46 - Attempted to move 1200 rows, actually moved 0 rows.
+2024-12-12 23:33:22 - Attempted to move 1000 rows, actually moved 4 rows.
+2024-12-12 23:36:24 - Attempted to move 1000 rows, actually moved 4 rows.
+2024-12-18 15:29:30 - Attempted to move 1200 rows, actually moved 4 rows.
+2024-12-22 22:58:43 - Attempted to move 500 rows, actually moved 0 rows.
+2024-12-22 22:59:04 - Attempted to move 504 rows, actually moved 0 rows.
+2024-12-22 22:59:15 - Attempted to move 492 rows, actually moved 0 rows.
+2024-12-22 22:59:30 - Attempted to move 497 rows, actually moved 0 rows.
+2024-12-22 23:03:30 - Attempted to move 500 rows, actually moved 0 rows.
+2024-12-22 23:03:33 - Attempted to move 499 rows, actually moved 0 rows.
+2024-12-22 23:03:36 - Attempted to move 498 rows, actually moved 0 rows.
+2024-12-22 23:03:43 - Attempted to move 497 rows, actually moved 0 rows.
+2024-12-22 23:05:12 - Attempted to move 496 rows, actually moved 0 rows.
+2024-12-22 23:07:13 - Attempted to move 1 rows, actually moved 0 rows.
+2024-12-22 23:07:15 - Attempted to move 2 rows, actually moved 0 rows.
+2024-12-22 23:07:19 - Attempted to move 3 rows, actually moved 0 rows.
+2024-12-22 23:15:30 - Attempted to move 4 rows, actually moved 0 rows.
+2024-12-23 00:06:16 - Attempted to move 497 contacts, actually moved 0 contacts.
+2024-12-23 00:06:30 - Attempted to move 500 contacts, actually moved 0 contacts.
+2024-12-23 00:06:42 - Attempted to move 500 contacts, actually moved 0 contacts.
+2024-12-23 00:07:37 - Attempted to move 500 contacts, actually moved 0 contacts.
+2024-12-23 00:08:14 - Attempted to move 500 contacts, actually moved 0 contacts.
+2024-12-23 00:08:46 - Attempted to move 497 contacts, actually moved 0 contacts.
+2024-12-23 00:10:12 - Attempted to move 490 contacts, actually moved 0 contacts.
+2024-12-23 00:14:20 - Attempted to move 500 contacts, actually moved 0 contacts.
+2024-12-23 00:22:17 - Attempted to move 513 contacts, actually moved 0 contacts.
+2024-12-23 00:22:41 - Attempted to move 515 contacts, actually moved 0 contacts.
+2024-12-23 00:25:31 - Attempted to move 1 contacts, actually moved 0 contacts.
+2024-12-23 00:25:34 - Attempted to move 2 contacts, actually moved 0 contacts.
+2024-12-26 16:30:22 - Attempted to move 3 contacts, actually moved 0 contacts.
