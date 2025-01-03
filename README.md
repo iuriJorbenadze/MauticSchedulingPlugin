@@ -10,6 +10,8 @@ The **Scheduling Feature Plugin** is a powerful extension for Mautic that enable
 
 [Watch the Scheduling Feature Plugin Full Tutorial](https://github.com/iuriJorbenadze/MauticSchedulingPlugin/blob/d1e9e7cff723c427a41497c4b346c27eca489f88/Scheduling%20feature%20plugin%20full%20tutorial.mkv)
 
+Click download raw file
+![img.png](img.png)
 
 ## Features
 
