@@ -109,7 +109,11 @@ sudo /usr/bin/php /path-to-mautic/bin/console mautic:plugins:install
 
 ## Authors
 
+- **GenesisAI** - [Visit GenesisAI](https://genesisai.io)
 - **Iuri Jorbenadze** - [Email](mailto:jorbenadze2001@gmail.com)
+
+
+If you would like help regarding this plugin, contact GenesisAI at [GenesisAI](https://genesisai.io).
 
 ---
 
